@@ -133,7 +133,16 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "ModuleType": 25
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\KatherineBai",
+      "Email": "katherine.bai@grapecity.com"
+    },
+    "LockDateTime": "2021-08-11T17:50:30.3157795+08:00",
+    "ModuleType": 25,
+    "ToRemoveFiles": [
+      "DataConnectionSet"
+    ]
   },
   {
     "ModuleName": "Upload",
@@ -141,7 +150,17 @@
   },
   {
     "ModuleName": "Table/班级",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\KatherineBai",
+      "Email": "katherine.bai@grapecity.com"
+    },
+    "LockDateTime": "2021-08-11T17:50:30.3157795+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\导入文件夹1\\班级.json",
+      "ForguncyDB.sqlite3"
+    ]
   },
   {
     "ModuleName": "Tables/导入文件夹1",
@@ -149,14 +168,64 @@
   },
   {
     "ModuleName": "Table/学生",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\KatherineBai",
+      "Email": "katherine.bai@grapecity.com"
+    },
+    "LockDateTime": "2021-08-11T17:50:30.3157795+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\导入文件夹1\\学生.json",
+      "ForguncyDB.sqlite3"
+    ]
   },
   {
     "ModuleName": "Table/成绩",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\KatherineBai",
+      "Email": "katherine.bai@grapecity.com"
+    },
+    "LockDateTime": "2021-08-11T17:50:30.3157795+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\导入文件夹1\\成绩.json",
+      "ForguncyDB.sqlite3"
+    ]
   },
   {
     "ModuleName": "Table/科目",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\KatherineBai",
+      "Email": "katherine.bai@grapecity.com"
+    },
+    "LockDateTime": "2021-08-11T17:50:30.3157795+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\导入文件夹1\\科目.json",
+      "ForguncyDB.sqlite3"
+    ]
+  },
+  {
+    "ModuleName": "Table/alltypetable_mysql",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\KatherineBai",
+      "Email": "katherine.bai@grapecity.com"
+    },
+    "LockDateTime": "2021-08-11T17:50:30.3157795+08:00",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "Tables/导入文件夹2",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\KatherineBai",
+      "Email": "katherine.bai@grapecity.com"
+    },
+    "LockDateTime": "2021-08-11T17:50:30.3157795+08:00",
+    "ModuleType": 22
   }
 ]
