@@ -97,16 +97,7 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\KatherineBai",
-      "Email": "katherine.bai@grapecity.com"
-    },
-    "LockDateTime": "2021-08-11T17:39:52.3624711+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
@@ -142,16 +133,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\KatherineBai",
-      "Email": "katherine.bai@grapecity.com"
-    },
-    "LockDateTime": "2021-08-11T17:39:52.3624711+08:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -159,52 +141,22 @@
   },
   {
     "ModuleName": "Table/班级",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\KatherineBai",
-      "Email": "katherine.bai@grapecity.com"
-    },
-    "LockDateTime": "2021-08-11T17:39:52.3644705+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Tables/导入文件夹1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\KatherineBai",
-      "Email": "katherine.bai@grapecity.com"
-    },
-    "LockDateTime": "2021-08-11T17:39:52.3644705+08:00",
     "ModuleType": 22
   },
   {
     "ModuleName": "Table/学生",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\KatherineBai",
-      "Email": "katherine.bai@grapecity.com"
-    },
-    "LockDateTime": "2021-08-11T17:39:52.3644705+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Table/成绩",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\KatherineBai",
-      "Email": "katherine.bai@grapecity.com"
-    },
-    "LockDateTime": "2021-08-11T17:39:52.3644705+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Table/科目",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\KatherineBai",
-      "Email": "katherine.bai@grapecity.com"
-    },
-    "LockDateTime": "2021-08-11T17:39:52.3644705+08:00",
     "ModuleType": 7
   }
 ]
